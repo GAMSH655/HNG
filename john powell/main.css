@@ -1,0 +1,17 @@
+
+*{
+    background-color: black;
+    color: beige;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.profile-image {
+    border-radius: 50%;
+    max-width: 200px;
+}
